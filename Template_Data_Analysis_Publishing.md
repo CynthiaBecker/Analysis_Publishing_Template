@@ -168,3 +168,6 @@ adonis2(formula = euc_diss ~ yearmonth, data = clr_meta, permutations = 999)
 ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 ```
 
+# Block quote testing
+
+> We are learning so many fun things about block quotes and styling our R markdown documents with the styles.css document. Brianna showed us this fun styles tool. Thanks ChatGPT. 
